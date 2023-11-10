@@ -15,7 +15,7 @@
 * Batch files targeting on Windows 10 Japanese version and Simplified Chinese version are ready for use. Japanese and English comments are provided.
 
 ## Other useful links
-* [WinHlp32 and Windows 10](https://github.com/knuth-konrad/winhlp32-on-windows10): The detail steps if you insist on do it manually.
+* [WinHlp32 and Windows 10](https://github.com/knuth-konrad/winhlp32-on-windows10): The detail steps if you insist on doing it manually.
 * Official page of the updates:
     * [Update for Windows 8.1 for x64-based Systems (KB917607)](https://www.microsoft.com/en-us/download/details.aspx?id=47671)
     * [Update for Windows 8.1 (x86) (KB917607)](https://www.microsoft.com/en-us/download/details.aspx?id=47667)
