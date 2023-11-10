@@ -12,6 +12,7 @@
 ## How to use
 * Modify the " ILanguages", "MuiFolder_x86" and "MuiFolder_x64" variable in the .cmd file.
 * Right-click on the .cmd file and click the "Run as Administrator" in the context menu.
+* Batch files targeting on Windows 10 Japanese version and Simplified Chinese version are ready for use. Japanese and English comments are provided.
 
 ## Other useful links
 * [WinHlp32 and Windows 10](https://github.com/knuth-konrad/winhlp32-on-windows10): The detail steps if you insist on do it manually.
